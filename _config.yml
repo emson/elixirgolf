@@ -5,8 +5,8 @@ locale: en_GB
 description: Solve elixir code problems, using the shortest number of characters.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
-# url: http://elixirgolf.com
+# url: http://localhost:4000
+url: 
 
 # Jekyll configuration
 

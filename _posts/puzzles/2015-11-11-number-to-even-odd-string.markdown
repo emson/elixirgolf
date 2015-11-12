@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Number to Even/Odd String
+author: ben_emson
 modified:
 categories: articles
 tags: []
