@@ -33,18 +33,22 @@ iex> --enter your code here--
 
 The winning solution was submitted by [@henrik](https://twitter.com/henrik):
 
+`char count: 66`
+
 {% highlight elixir %}
-iex(1)> "#{for x<-(to_char_list String.strip IO.gets''),do: Enum.at'eo',rem(x,2)}"
+iex(1)> "#{for x<-(to_char_list IO.gets''),x>10,do: Enum.at'eo',rem(x,2)}"
 12231
 "oeeoo"
 {% endhighlight %}
 
-Starting in the middle it `IO.gets` the user's input, strips off the
-new line character `\n` using `String.strip`. It then converts this binary
-string into a character list (a list of integer values).
+Starting in the middle it `IO.gets` the user's input, and converts this binary
+string into a character list (a list of integer values). Note that the last
+character will be a `\n` which is ASCII value `10`. 
 
-It uses a comprehension (`for x<-...`) to take each integer from our list
-and pass it through to the body of our comprehension `do: Enum.at....`
+It uses a comprehension (`for x<-...`) to take each integer from our list and
+apply the `x>10` filter. As all the string values are greater than `10` they
+pass through, where as the `\n` escapes. The values are then passed to the body
+of our comprehension `do: Enum.at....`
 
 In the body, the integer value bound to `x` is divided by `2` determining whether it is even or
 odd. This `rem`ainder value is then used by `Enum.at` to return the
