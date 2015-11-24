@@ -88,7 +88,7 @@ To see some of Andrei's other attempts checkout his Gist:
 <https://gist.github.com/zyro/e60e75ef3a3c3f08e5ef>
 
 
-### Honerable mentions
+### Honourable mentions
 
 Submitted by [@henrik](https://twitter.com/henrik):
 

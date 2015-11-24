@@ -31,13 +31,15 @@ mathjax: true
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
+# Disqus comments on post pages
+comments: true
 
 # Site owner
 owner:
   name: elixirgolf
   avatar: bio-elixirgolf.jpg
   email: elixirgolf@emson.co.uk
-  disqus-shortname:
+  disqus-shortname: elixirgolf.disqus.com
   twitter: elixirgolf
   facebook: #username
   github: emson/elixirgolf

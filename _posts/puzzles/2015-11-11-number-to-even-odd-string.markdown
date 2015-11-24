@@ -58,7 +58,7 @@ Finally the code is wrapped in an interpolated string `"#{}"` to convert the
 character list into a binary string.
 
 
-### Honerable mentions
+### Honourable mentions
 
 Submitted by [@henrik](https://twitter.com/henrik):
 

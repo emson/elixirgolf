@@ -42,7 +42,7 @@ wins.
 ### Winner
 `--- your name here! ---`
 
-### Honerable mentions
+### Honourable mentions
 
 ---
 
