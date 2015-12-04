@@ -59,7 +59,7 @@ a()
 **<https://github.com/emson/elixirgolf/issues/1>**
 
 ## Solutions
-[n,p]=IO.gets("")|>String.split",";IO.puts for<<c<-p>>,do: c<97&&c||97+rem c-71-String.to_integer(n),26
+
 ### Winner
 
 `--- your name here ---`
