@@ -45,7 +45,9 @@ wins. However if you want to get creative you will get an honourable mention.
 
 ### Submit your solution
 
-Please submit your solution as a **comment on this Github issue:**
+Please submit your solution as a **comment on the Github issue** below, along
+with your **Twitter handle** (we will use this to link back to you if your
+solution is successful).
 
 * <https://github.com/emson/elixirgolf/issues/3>
 
