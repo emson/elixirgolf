@@ -60,8 +60,9 @@ a()
 
 ## Solutions
 
-This weeks puzzle was a little wasn't quite as popular, however there were a few
-interesting solutions. More importantly there were things to learn from.
+This weeks puzzle was less popular than last weeks, probably because
+Quines are quite abstract, however we had a few interesting solutions.
+More importantly there were things to learn from.
 
 ### Winner
 
