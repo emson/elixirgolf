@@ -60,6 +60,9 @@ a()
 
 ## Solutions
 
+This weeks puzzle was a little wasn't quite as popular, however there were a few
+interesting solutions. More importantly there were things to learn from.
+
 ### Winner
 
 Winner: [@rubysolo](https://twitter.com/rubysolo)
